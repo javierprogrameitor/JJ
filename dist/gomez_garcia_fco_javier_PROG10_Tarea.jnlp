@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="gomez_garcia_fco_javier_PROG10_Tarea.jnlp">
+  <information>
+    <title>gomez_garcia_fco_javier_PROG10_Tarea</title>
+    <vendor>javier</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="gomez_garcia_fco_javier_PROG10_Tarea.jar" size="9686" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="controlador.Main"  name="gomez_garcia_fco_javier_PROG10_Tarea" />
+  <update check="always"/>
+</jnlp>
